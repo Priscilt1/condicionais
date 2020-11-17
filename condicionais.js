@@ -23,5 +23,3 @@ function graduation(schooling) {
 
 console.log(graduation("EM"))
 console.log(graduationFull("EM"))
-
-
